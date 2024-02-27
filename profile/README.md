@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/bump-sh/">Bump.sh GitHub organization</a> |
   <a href="https://help.bump.sh/">Help</a> |
   <a href="https://bump.sh/users/sign_up">Sign up</a>
 </p>
